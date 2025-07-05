@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\Docker\\weapiDocker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7965A3-8E1A-7BCC-EEDD-038E6DD9F625}|webpiDocker.csproj|s:\\docker\\weapidocker\\webpidocker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BA7965A3-8E1A-7BCC-EEDD-038E6DD9F625}|webpiDocker.csproj|solutionrelative:webpidocker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "webpiDocker",
+              "DocumentMoniker": "S:\\Docker\\weapiDocker\\webpiDocker.csproj",
+              "RelativeDocumentMoniker": "webpiDocker.csproj",
+              "ToolTip": "S:\\Docker\\weapiDocker\\webpiDocker.csproj",
+              "RelativeToolTip": "webpiDocker.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-05T05:14:04.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
